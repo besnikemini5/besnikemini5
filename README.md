@@ -44,5 +44,5 @@ its implementation, and the technologies used.
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your professional email]
+- LinkedIn: https://www.linkedin.com/in/besnikemini1/
+- Email: besnikemini5@gmail.com
